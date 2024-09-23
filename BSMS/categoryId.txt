@@ -1,0 +1,6 @@
+C001, Mountain Bike
+C002, Road Bike
+C003, Touring Bike
+C004, BMX Bike
+C005, Folding Bike
+C006, Fixed Gear Bike
